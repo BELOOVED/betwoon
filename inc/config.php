@@ -9,10 +9,10 @@ date_default_timezone_set('Europe/Istanbul');
 
 // Database Info
 const DB_HOST = "localhost";
-const DB_LOGIN = "golden";
-const DB_PASS = "Gt05b3v5?";
-const DB_NAME = "golden";
-const SYSNAME = 'Goldenbahis';
+const DB_LOGIN = "betwoon_23";
+const DB_PASS = "i#64s72nK";
+const DB_NAME = "betwoon_23";
+const SYSNAME = 'Betwoon';
 const ENV = 'prod';
 
 const ADMIN_PATH = 'tema';

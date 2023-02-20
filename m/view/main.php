@@ -1,19 +1,8 @@
-
-
-
-
 <!DOCTYPE html>
 <html lang="tr" style="height: 0 !important;" data-theme="light">
 <head>
 
 
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-3BTRDGXQ5E"></script>
-        <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag() { dataLayer.push(arguments); }
-            gtag('js', new Date());
-            gtag('config', 'G-3BTRDGXQ5E');
-        </script>
 
 
                 <title>Canlı Casino, Slotlar, Masa Oyunları, Poker |  Betwoon</title>
@@ -71,26 +60,26 @@
 
 
 
-    <link rel="stylesheet" type="text/css" href="/Scripts/mobile/jquery.mobile-1.4.5/jquery.mobile-1.4.5.css">
-    <link rel="stylesheet" type="text/css" href="/Scripts/mobile/JQueryUI/css/ui-lightness/jquery-ui-1.10.4.custom.min.css" />
+    <link rel="stylesheet" type="text/css" href="assets/Scripts/mobile/jquery.mobile-1.4.5/jquery.mobile-1.4.5.css">
+    <link rel="stylesheet" type="text/css" href="assets/Scripts/mobile/JQueryUI/css/ui-lightness/jquery-ui-1.10.4.custom.min.css" />
 
     
 
-<link href="/bundles/stylesM?v=eI08Eoq9PYVjJJSmuIjr5AJFWcx7dTej_s0uxP4APG01" rel="stylesheet"/>
+<link href="assets/bundles/stylesM?v=eI08Eoq9PYVjJJSmuIjr5AJFWcx7dTej_s0uxP4APG01" rel="stylesheet"/>
 
 
-<link href="/bundles/redesignMobile?v=lDz9VINru_uDbbCHFNhf1sDjDg_DDYWl8CatNbXbP0o1" rel="stylesheet"/>
+<link href="assets/bundles/redesignMobile?v=lDz9VINru_uDbbCHFNhf1sDjDg_DDYWl8CatNbXbP0o1" rel="stylesheet"/>
 
-    <link href="/bundles/dynamicLobbyMobile?v=1iL8GtGpM-PLoWTcUPv5PGQ9R4rgVg-oGUOMO-2xJ7k1" rel="stylesheet"/>
+    <link href="assets/bundles/dynamicLobbyMobile?v=1iL8GtGpM-PLoWTcUPv5PGQ9R4rgVg-oGUOMO-2xJ7k1" rel="stylesheet"/>
 
-    <link href="/Content/mobile/components/dynamicBanners_v1.0.css?v=1.1402.2023.1024" rel="stylesheet" type="text/css" />
-    <link href="/Content/mobile/partners/1131.css?v=1.1402.2023.1024" rel="stylesheet" type="text/css" />
+    <link href="assets/Content/mobile/components/dynamicBanners_v1.0.css?v=1.1402.2023.1024" rel="stylesheet" type="text/css" />
+    <link href="assets/Content/mobile/partners/1131.css?v=1.1402.2023.1024" rel="stylesheet" type="text/css" />
 
                 <link href="https://cdn-plat.apidigi.com/plat/prd/Img/Partners/1131/customMob.css" type="text/css" rel="stylesheet" />
 
 
 
-    <script type="text/javascript" src="/Scripts/mobile/JQueryUI/js/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="assets/Scripts/mobile/JQueryUI/js/jquery-1.10.2.min.js"></script>
     <script type="text/javascript">
         $(document).on("mobileinit", function () {/// init must before jquery.mobil link
             $.mobile.ajaxEnabled = false;
@@ -99,15 +88,15 @@
             $.mobile.pushStateEnabled = false;
         });
     </script>
-    <script type="text/javascript" src="/Scripts/mobile/jquery.mobile-1.4.5/jquery.mobile-1.4.5.min.js"></script>
-    <script type="text/javascript" src="/Scripts/mobile/JQueryUI/js/jquery-ui-1.10.4.custom.min.js"></script>
-    <script type="text/javascript" src="/Scripts/mobile/flexslider/jquery.flexslider-min.js"></script>
-    <script type="text/javascript" src="/Scripts/jquery.validate.js"></script>
-    <script type="text/javascript" src="/Scripts/jquery.validate.unobtrusive.min.js"></script>
+    <script type="text/javascript" src="assets/Scripts/mobile/jquery.mobile-1.4.5/jquery.mobile-1.4.5.min.js"></script>
+    <script type="text/javascript" src="assets/Scripts/mobile/JQueryUI/js/jquery-ui-1.10.4.custom.min.js"></script>
+    <script type="text/javascript" src="assets/Scripts/mobile/flexslider/jquery.flexslider-min.js"></script>
+    <script type="text/javascript" src="assets/Scripts/jquery.validate.js"></script>
+    <script type="text/javascript" src="assets/Scripts/jquery.validate.unobtrusive.min.js"></script>
 
-    <script src="/bundles/scriptsM?v=pVbPQdTeVbu4tYf9nAyRX1qd59T-jJFZlnrHYEk_LNg1"></script>
+    <script src="assets/bundles/scriptsM?v=pVbPQdTeVbu4tYf9nAyRX1qd59T-jJFZlnrHYEk_LNg1"></script>
 
-    <script src="/bundles/Common?v=ros3aRhXwUq-XvXlVKWJwxgfQH7LWxE4f9kBQMDXMLQ1"></script>
+    <script src="assets/bundles/Common?v=ros3aRhXwUq-XvXlVKWJwxgfQH7LWxE4f9kBQMDXMLQ1"></script>
 
 
     <script type="text/javascript">
@@ -120,34 +109,14 @@ BalanceUpdater.start();    </script>
     
 
 
-    <link rel="stylesheet" type="text/css" href="/Scripts/slick_slider/slick.css" />
-    <link rel="stylesheet" type="text/css" href="/Scripts/slick_slider/slick-theme.css" />
-    <script src="/Scripts/slick_slider/slick.min.js"></script>
-    <script src="/Scripts/Common.js"></script>
-    <link href="/Content/Utils/swiper.min.css?v=1.1402.2023.1024" rel="stylesheet" />
-    <script src="/Scripts/Utils/swiper.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="assets/Scripts/slick_slider/slick.css" />
+    <link rel="stylesheet" type="text/css" href="assets/Scripts/slick_slider/slick-theme.css" />
+    <script src="assets/Scripts/slick_slider/slick.min.js"></script>
+    <script src="assets/Scripts/Common.js"></script>
+    <link href="assets/Content/Utils/swiper.min.css?v=1.1402.2023.1024" rel="stylesheet" />
+    <script src="assets/Scripts/Utils/swiper.min.js"></script>
 
-        <!-- Google Tag Manager -->
-        <script>
-            (function (w, d, s, l, i) {
-                w[l] = w[l] || []; w[l].push({
-                    'gtm.start':
-                        new Date().getTime(), event: 'gtm.js'
-                }); var f = d.getElementsByTagName(s)[0],
-                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-                        'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-            })(window, document, 'script', 'dataLayer', 'GTM-P7VH6V5');</script>
-        <!-- End Google Tag Manager -->
-</head>
-<body>
-
-        <!-- Google Tag Manager (noscript) -->
-        <noscript>
-            <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P7VH6V5" height="0" width="0" style="display:none;visibility:hidden"></iframe>
-        </noscript>
-        <!-- End Google Tag Manager (noscript) -->
-
-
+      
 
 
 
@@ -547,7 +516,7 @@ BalanceUpdater.start();    </script>
     </div>
 </div>
 <script src="//sport.betwoon415.com/js/partner/bootstrapper.min.js?v=3"></script>
-<script src="/Scripts/jackpotSlider.js"></script>
+<script src="assets/Scripts/jackpotSlider.js"></script>
 
 <script type="text/javascript">
     (function bootTopMatches() {
@@ -1224,7 +1193,7 @@ BalanceUpdater.start();    </script>
                     <div class="flex relative w-100">
                         <div class="r_login__row captcha flex alCen jb">
                             <input type="hidden" name="captcha-guid" value="553672a711954b5da158ae14067d8192" />
-<img class='captchaImage' src="/Common/Captcha?guid=553672a711954b5da158ae14067d8192&height=50&width=150" alt="CAPTCHA" width="150" height="50" /><div class='tl_refresh_container'><a class="refreshLoginCaptcha" title="Refresh"></a>
+<img class='captchaImage' src="assets/Common/Captcha?guid=553672a711954b5da158ae14067d8192&height=50&width=150" alt="CAPTCHA" width="150" height="50" /><div class='tl_refresh_container'><a class="refreshLoginCaptcha" title="Refresh"></a>
                         </div>
                         <div class="captcha_input_cont">
                             <input type="text" id="Captcha" name="Captcha" value=""  autocomplete="off" placeholder="" class="l_reg  registerInput reg_input tl_input_popup_reg"/></div>

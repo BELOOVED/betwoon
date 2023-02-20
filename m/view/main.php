@@ -65,12 +65,12 @@
 
     
 
-<link href="assets/bundles/stylesM?v=eI08Eoq9PYVjJJSmuIjr5AJFWcx7dTej_s0uxP4APG01" rel="stylesheet"/>
+<link href="assets/bundles/stylesM.css?v=eI08Eoq9PYVjJJSmuIjr5AJFWcx7dTej_s0uxP4APG01" rel="stylesheet"/>
 
 
-<link href="assets/bundles/redesignMobile?v=lDz9VINru_uDbbCHFNhf1sDjDg_DDYWl8CatNbXbP0o1" rel="stylesheet"/>
+<link href="assets/bundles/redesignMobile.css?v=lDz9VINru_uDbbCHFNhf1sDjDg_DDYWl8CatNbXbP0o1" rel="stylesheet"/>
 
-    <link href="assets/bundles/dynamicLobbyMobile?v=1iL8GtGpM-PLoWTcUPv5PGQ9R4rgVg-oGUOMO-2xJ7k1" rel="stylesheet"/>
+    <link href="assets/bundles/dynamicLobbyMobile.css?v=1iL8GtGpM-PLoWTcUPv5PGQ9R4rgVg-oGUOMO-2xJ7k1" rel="stylesheet"/>
 
     <link href="assets/Content/mobile/components/dynamicBanners_v1.0.css?v=1.1402.2023.1024" rel="stylesheet" type="text/css" />
     <link href="assets/Content/mobile/partners/1131.css?v=1.1402.2023.1024" rel="stylesheet" type="text/css" />
@@ -94,9 +94,9 @@
     <script type="text/javascript" src="assets/Scripts/jquery.validate.js"></script>
     <script type="text/javascript" src="assets/Scripts/jquery.validate.unobtrusive.min.js"></script>
 
-    <script src="assets/bundles/scriptsM?v=pVbPQdTeVbu4tYf9nAyRX1qd59T-jJFZlnrHYEk_LNg1"></script>
+    <script src="assets/bundles/scriptsM.html?v=pVbPQdTeVbu4tYf9nAyRX1qd59T-jJFZlnrHYEk_LNg1"></script>
 
-    <script src="assets/bundles/Common?v=ros3aRhXwUq-XvXlVKWJwxgfQH7LWxE4f9kBQMDXMLQ1"></script>
+    <script src="assets/bundles/Common.html?v=ros3aRhXwUq-XvXlVKWJwxgfQH7LWxE4f9kBQMDXMLQ1"></script>
 
 
     <script type="text/javascript">

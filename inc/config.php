@@ -9,9 +9,9 @@ date_default_timezone_set('Europe/Istanbul');
 
 // Database Info
 const DB_HOST = "localhost";
-const DB_LOGIN = "betwoon_23";
-const DB_PASS = "i#64s72nK";
-const DB_NAME = "betwoon_23";
+const DB_LOGIN = "betwoon_12313";
+const DB_PASS = "betwoon_12313";
+const DB_NAME = "betwoon_12313";
 const SYSNAME = 'Betwoon';
 const ENV = 'prod';
 

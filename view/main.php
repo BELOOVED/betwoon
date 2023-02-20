@@ -4,15 +4,6 @@
 <head>
 
 
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-3BTRDGXQ5E"></script>
-        <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag() { dataLayer.push(arguments); }
-            gtag('js', new Date());
-            gtag('config', 'G-3BTRDGXQ5E');
-        </script>
-
-
 
 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
